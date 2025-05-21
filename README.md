@@ -1,4 +1,5 @@
 Product Management platform
+
 📌 Project Overview
 The Product Management Tool is a web-based application that allows users to manage a product catalog efficiently. This project was completed as part of my internship at Code Shift Studio.
 
